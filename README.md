@@ -22,7 +22,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/Simran-Kumari123/bmi-calculator.git
 cd bmi-calculator
 Install dependencies:
 bash
